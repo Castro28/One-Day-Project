@@ -1,7 +1,8 @@
 .carousel-caption {
   background-color: rgba(236, 236, 0, 0.371);
   font-size: 1.5rem; 
-  padding: 1rem; 
+  padding: 1rem;
+  z-index: 1;
 }
 
 .carousel-item {
