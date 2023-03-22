@@ -12,3 +12,7 @@
   height: 100% !important;
   object-fit: cover;
 }
+
+form {
+  width: 25%;
+}
